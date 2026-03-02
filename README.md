@@ -174,4 +174,6 @@ g++ main.cpp System.cpp Equation.cpp -o solver
 ## Author
 
 Mirna Shawky  
+Haidy sobhy
+ Mohamed Ahmed Zaghlol
 Software Engineering Student
